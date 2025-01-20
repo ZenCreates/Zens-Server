@@ -3,8 +3,8 @@
 	"Chart Data": "https://server.zenfake.com/DreamyFNFCharts/Breaker_Bundle/Gamebreaker/Chart.json",
 	"Audio Tracks": {
 		"Inst": {
-			"rbxassetid://80498901421149", 
+			"SoundId": "rbxassetid://80498901421149", 
 			"PlaybackSpeed": 0.5
-			}
+		}
 	}
 }
