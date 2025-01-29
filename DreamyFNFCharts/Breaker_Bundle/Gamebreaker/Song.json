@@ -1,0 +1,10 @@
+{
+	"Song Name": "GameBreaker",
+	"Chart Data": "https://server.zenfake.com/DreamyFNFCharts/Breaker_Bundle/Gamebreaker/Chart.json",
+	"Audio Tracks": {
+		"Inst": {
+			"SoundId": "rbxassetid://126495590963146", 
+			"PlaybackSpeed": 0.68
+		}
+	}
+}
